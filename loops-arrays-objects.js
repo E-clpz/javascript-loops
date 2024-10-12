@@ -82,16 +82,17 @@ for (let i = 0; i < scores.length; i++) {
 
 console.log(scores);
 
+
 // ==========================================
 // Opdracht 2
 // Schrijf een script die e-mailadressen genereert voor al onze medewerkers. Sla dit op in een nieuwe property "email" die je toevoegt aan iedere medewerker.
-
 const NOVIEmployees = [
     {firstName: 'Nova', lastName: 'Eeken'},
     {firstName: 'Sam', lastName: 'Barnhoorn'},
     {firstName: 'Tessa', lastName: 'Steur'},
     {firstName: 'Mark', lastName: 'Rensen'},
 ];
+
 
 // Bij NOVI horen de e-mailadressen altijd in het volgende format: voornaam.achternaam@novi.nl
 // Vóór het script zie je de originele objecten,
@@ -180,4 +181,5 @@ for (let i = 0; i < students.length; i++) {
         students[i].neighborhood = neighborhoodMapping[zipcode];
 }
 console.log(students);
+
 

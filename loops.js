@@ -15,8 +15,6 @@ for (let i = 1; i <= 5; i++) {
 }
 
 
-
-
 // ==========================================
 // Opdracht 2. Maak een for-loop die 4 keer het woord "loop..." logt, en bij de laatste (vijfde) loop het woord "klaar!"
 // Verwachte uitkomsten:
@@ -33,8 +31,6 @@ for (let i = 0; i < 5; i++) {
         console.log("klaar!")
     }
 }
-
-
 
 
 // ==========================================
@@ -63,8 +59,6 @@ for (let i = 0; i < 10; i++) {
         console.log(">>" + (i))
     }
 }
-
-
 
 
 // ==========================================
