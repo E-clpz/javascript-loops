@@ -82,10 +82,10 @@ for (let i = 0; i < scores.length; i++) {
 
 console.log(scores);
 
+
 // ==========================================
 // Opdracht 2
 // Schrijf een script die e-mailadressen genereert voor al onze medewerkers. Sla dit op in een nieuwe property "email" die je toevoegt aan iedere medewerker.
-
 const NOVIEmployees = [
     {firstName: 'Nova', lastName: 'Eeken'},
     {firstName: 'Sam', lastName: 'Barnhoorn'},
