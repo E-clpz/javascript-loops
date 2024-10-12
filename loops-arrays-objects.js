@@ -93,6 +93,7 @@ const NOVIEmployees = [
     {firstName: 'Mark', lastName: 'Rensen'},
 ];
 
+
 // Bij NOVI horen de e-mailadressen altijd in het volgende format: voornaam.achternaam@novi.nl
 // Vóór het script zie je de originele objecten,
 // Na jouw script zie je de aangepaste objecten:
@@ -180,4 +181,5 @@ for (let i = 0; i < students.length; i++) {
         students[i].neighborhood = neighborhoodMapping[zipcode];
 }
 console.log(students);
+
 
